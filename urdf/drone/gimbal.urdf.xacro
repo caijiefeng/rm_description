@@ -4,7 +4,7 @@
     <xacro:property name="threshold" value="0.1"/>
     <xacro:property name="pitch_lower_limit" value="-0.406"/>
     <xacro:property name="pitch_upper_limit" value="0.867"/>
-    <xacro:property name="yaw_lower_limit" value="-1.288"/>
+    <xacro:property name="yaw_lower_limit" value="-1.1917"/>
     <xacro:property name="yaw_upper_limit" value="1.138"/>
 
     <link name="yaw">
